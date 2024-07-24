@@ -21,5 +21,3 @@ for(int k:b){
 System.out.println(Arrays.toString(b));
 }
 }
-ggsgs
-fafnajfan
